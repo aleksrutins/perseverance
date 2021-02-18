@@ -1,0 +1,5 @@
+
+# pyb.yml
+# This is the PyBundle configuration file.
+name: perseverance # Project name
+script: perseverance-ctm # Main script path (for 'pyb run')
