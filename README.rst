@@ -1,0 +1,1 @@
+To run, :code:`python3 -m perseverance`.

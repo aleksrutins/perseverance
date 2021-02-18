@@ -1,4 +1,4 @@
-https://codegolf.stackexchange.com/questions/114960/when-will-brexit-happen
+# Taken from https://codegolf.stackexchange.com/questions/114960/when-will-brexit-happen
 from datetime import*
 # This is the main file.
 def main():
