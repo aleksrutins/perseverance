@@ -1,4 +1,4 @@
-from rich.progress import track
+https://codegolf.stackexchange.com/questions/114960/when-will-brexit-happen
 from datetime import*
 # This is the main file.
 def main():
